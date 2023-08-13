@@ -22,7 +22,6 @@ A bar graph was utilized to display sales values, with a superimposed line graph
 6. Table Dashboard:
 A comprehensive table dashboard was created, integrating all the key visualizations. A filter was added to the "Sales by Country" graph, allowing users to focus on countries with higher profits (dark green) or losses (red). The dashboard is responsive and updates dynamically when the selected country is changed.
  
-Dashboard design
 7. Key finding and Proposed Strategies
 Key Finding
 1.	Identifying Profit Loss Factors:
